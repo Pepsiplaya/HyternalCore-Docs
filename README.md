@@ -35,7 +35,7 @@ HyternalCore is a comprehensive MMO framework for Hytale that provides:
 
 ### Prerequisites
 
-- Java 17 or higher
+- Java 25 or higher
 - Hytale server with HyternalCore installed
 - Basic understanding of Hytale plugin development
 - Access to server MySQL and Redis (for cluster features)
